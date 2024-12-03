@@ -1,0 +1,3 @@
+The "Motorcycle Accessories Business" website is designed to showcase and promote accessories and upgrades for motorcycles. With an eye-catching layout and clear structure, the site features four main pages: Home, About, Products, and Contact, allowing users to easily learn about the business, explore featured products, and connect effortlessly.
+
+Built using HTML and CSS, the website ensures compatibility across various devices. The files are well-organized for easy management and future scalability. This solution provides a simple yet effective way for small businesses to establish a professional online presence.
